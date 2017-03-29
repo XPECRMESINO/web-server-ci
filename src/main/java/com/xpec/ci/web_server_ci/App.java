@@ -6,7 +6,7 @@ import com.xpec.ci.web_server_ci.handler.SumHandler;
 
 public class App 
 {
-	//Server main RMP
+	//Server main RMP 2
     public static void main( String[] args )
     {
     	try{
