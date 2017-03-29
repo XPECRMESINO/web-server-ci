@@ -1,7 +1,9 @@
 package com.xpec.ci.web_server_ci.test;
 
-import org.junit.Test;
 import static org.junit.Assert.assertEquals;
+
+import org.junit.Test;
+
 import com.xpec.ci.web_server_ci.ops.Ops;
 
 public class OpsTest {
