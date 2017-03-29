@@ -6,6 +6,7 @@ import com.xpec.ci.web_server_ci.handler.SumHandler;
 
 public class App 
 {
+	//Server main
     public static void main( String[] args )
     {
     	try{
